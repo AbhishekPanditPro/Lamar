@@ -18,3 +18,8 @@ Lamar is a React Native app for recognizing what is in your surrounding. You can
 
 
 ### Screenshots of the App!
+![Alt text](screenshot/Screenshot_20240322-232751.png)
+![Alt text](screenshot/Screenshot_20240322-232922.png)
+![Alt text](screenshot/Screenshot_20240322-233006.png)
+![Alt text](screenshot/Screenshot_20240322-232927.png)
+![Alt text](screenshot/Screenshot_20240322-232954.png)

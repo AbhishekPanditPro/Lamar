@@ -88,8 +88,8 @@ export default function CameraScreen() {
         type: 'success',
         text1: 'Success!'
       });
-      console.log(typeof data);
-      console.log(data); // Process or display the returned data as needed
+      // console.log(typeof data);
+      // console.log(data); // Process or display the returned data as needed
       console.log(data.description);
       // Alert.alert(data.description);
       setDescriptionText(data.description); // Set the description text
@@ -100,7 +100,7 @@ export default function CameraScreen() {
       console.error("Could not send data to server:", error);
       Toast.show({
         type: 'error',
-        text1: 'Trying Again!',
+        text1: 'AI Is Trying Again!',
       });
       sendDataToServer(imageUri);
     }
