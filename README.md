@@ -15,3 +15,6 @@ Lamar is a React Native app for recognizing what is in your surrounding. You can
 3. Scan the QR code from the console to launch the app
 4. Play with the App!
 5. Note: You need to double press the camera for serching the contents in the screen.
+
+
+### Screenshots of the App!
