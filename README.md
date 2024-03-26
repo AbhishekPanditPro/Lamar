@@ -14,7 +14,7 @@ Lamar is a React Native app for recognizing what is in your surrounding. You can
 2. Install expo go on your Android (preferred) or iOS phone
 3. Scan the QR code from the console to launch the app
 4. Play with the App!
-5. Note: You need to double press the camera for serching the contents in the screen.
+5. Note: You need to double press the camera for searching the contents in the screen.
 
 
 ### Screenshots of the App!
