@@ -119,7 +119,7 @@ async function run(Image) {
   // For text-and-image input (multimodal), use the gemini-pro-vision model
   const model = genAI.getGenerativeModel({ model: "gemini-pro-vision" });
   
-  const prompt = "What is in the picture? Can you elaborate in depth?";
+  const prompt = "What is in the picture? Can you elaborate in depth and help me understand it?";
   
   const imageParts = [
     fileToGenerativePart(Image,"image/jpeg"),
