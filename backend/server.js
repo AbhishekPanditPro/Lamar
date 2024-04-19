@@ -27,10 +27,10 @@ app.use(bodyParser.json());
 
 // MySQL connection
 const connection = mysql.createPool({
-  host: 'localhost', // e.g., localhost
-  user: 'root',
-  password: 'givemeaccess',
-  database: 'ServerAPI'
+  host: process.env.host, // e.g., localhost
+  user: process.env.user,
+  password: process.env.password,
+  database: process.env.database
 });
 
 
