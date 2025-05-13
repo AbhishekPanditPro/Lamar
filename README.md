@@ -1,6 +1,6 @@
 # Lamar
 Lamar is a React Native app for recognizing what is in your surrounding. You can take photos and get descriptions for your photos using this app. It uses state of the art Gen AI technology under the hood to provide you with powerful capabilities.
-
+Link : https://github.com/AbhishekPanditPro/Lamar
 
 ## Setting Up Backend
 1. Create MySQL database with the provided schema. The backend code is configured to access the database as "root" user at "localhost" at the default port "3306" with the password "givemeaccess" and database name "ServerAPI". If you set up your database differently, please modify it in server.js.
